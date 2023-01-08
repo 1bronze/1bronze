@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontAlignY=45&desc=khdkkhdd's%20Github%20Profile&descAlign=60&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontAlignY=45&desc=1Bronze's%20Github%20Profile&descAlign=60&fontSize=90)
 
 안녕하세요! </br>
 저는 김한동이고 현재 대학교에 재학중입니다! </br>
