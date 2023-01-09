@@ -25,7 +25,7 @@
 
 </br>
 
-![khdkkhdd's github stats](https://github-readme-stats.vercel.app/api?username=khdkkhdd&show_icons=true)  
+![khdkkhdd's github stats](https://github-readme-stats.vercel.app/api?username=1Bronze&show_icons=true)  
 
 </br>
 
