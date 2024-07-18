@@ -9,7 +9,7 @@
 
 ### Skills
 
-  **`Spring` `React` `Django` **
+  **`SpringBoot` `React` `Django`**
 
   `Mysql` `AWS` `Docker` `git`
   
