@@ -9,10 +9,8 @@
 
 ### Skills
 
-  **`SpringBoot` `React` `Django`**
+  **`React` `Django` `FastAPI`**
 
-  `Mysql` `AWS` `Docker` `git`
-  
-  `IntelliJ` `Slack`
+  `SpringBoot` `Mysql` `AWS`
   
 <br>
